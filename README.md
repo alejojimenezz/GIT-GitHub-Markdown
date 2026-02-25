@@ -49,6 +49,7 @@ Root [GIT/GitHub/Markdown]
 
 - Herramienta Mermaid
 - Comando `amend`
+- Escribir un [Changelog](https://keepachangelog.com/en/1.1.0/)
 - Extensiones para VSCode:
   - Conventional Commits
   - Markdown All in One
