@@ -1,10 +1,16 @@
 # [Markdown](https://www.markdownguide.org/)
 
-Lenguaje de marcado
+Lenguaje de marcado, como HTML
 
 # Títulos
 
-Con `#`
+Con `#`, que a mayor numero de símbolos baja la jerarquía del título.
+
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
 
 # Código
 
