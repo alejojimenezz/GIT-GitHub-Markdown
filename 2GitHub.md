@@ -27,6 +27,10 @@ GitHub-flavored markdown
 > [!WARNING]
 > Advertencias
 
+# Issues
+
+Organización de arreglos y cambios a realizar en el repositorio, dandoles un seguimiento.
+
 # GitHub Desktop
 
 Aplicación para ejecutar comandos de GIT por medio de una interfaz gráfica.

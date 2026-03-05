@@ -10,7 +10,7 @@ Con `#`, que a mayor numero de símbolos baja la jerarquía del título.
 ### Título 3
 #### Título 4
 ##### Título 5
-###### Título 6
+###### Código de prueba para generar conflicto de prueba
 
 # Código
 
