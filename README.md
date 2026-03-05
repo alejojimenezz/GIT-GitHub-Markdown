@@ -6,6 +6,7 @@ IDE para muestras: [Visual Studio Code](https://code.visualstudio.com/)
 - [GIT-GitHub-Markdown](#git-github-markdown)
 - [Estructura](#estructura)
 - [Recursos extra](#recursos-extra)
+- [Esto me generará conflicto](#esto-me-generará-conflicto)
 
 # Estructura
 
@@ -54,3 +55,5 @@ Root [GIT/GitHub/Markdown]
   - Conventional Commits
   - Markdown All in One
   - Mermaid
+
+# Esto me generará conflicto
