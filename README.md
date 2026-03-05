@@ -54,3 +54,5 @@ Root [GIT/GitHub/Markdown]
   - Conventional Commits
   - Markdown All in One
   - Mermaid
+ 
+# Prueba para merge conflict
