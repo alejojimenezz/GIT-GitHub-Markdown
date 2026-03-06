@@ -1,5 +1,7 @@
 # [GIT](https://git-scm.com/)
 
+## Grupo ENIQ
+
 # Instalación
 
 Instalar última versión estable
