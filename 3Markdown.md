@@ -42,3 +42,9 @@ int main() {
 # Diagramas
 
 Usando [Mermaid](https://mermaid.js.org/), herramienta que permite agregar diferentes tipos de diagramas a archivos .md.
+
+# Ecuaciones
+
+$$
+a = b
+$$
